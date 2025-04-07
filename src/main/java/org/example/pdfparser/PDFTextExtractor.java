@@ -1,4 +1,4 @@
-package org.example.pdfparse
+package org.example.pdfparser;
 
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.text.PDFTextStripper;
